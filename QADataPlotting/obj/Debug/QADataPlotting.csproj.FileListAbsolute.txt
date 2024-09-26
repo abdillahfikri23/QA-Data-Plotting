@@ -1,0 +1,23 @@
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\bin\Debug\QADataPlotting.exe.config
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\bin\Debug\QADataPlotting.exe
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\bin\Debug\QADataPlotting.pdb
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.csprojResolveAssemblyReference.cache
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.Form1.resources
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.Properties.Resources.resources
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.csproj.GenerateResource.Cache
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.exe
+c:\users\intern.afikri\onedrive - excelitas technologies corp\documents\visual studio 2013\Projects\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.pdb
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.csproj.ResolveComReference.cache
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.Form1.resources
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.Form2.resources
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.Properties.Resources.resources
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.QAPlotting.resources
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.Spec.resources
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.csproj.GenerateResource.Cache
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\bin\Debug\QADataPlotting.exe.config
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\bin\Debug\QADataPlotting.exe
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\bin\Debug\QADataPlotting.pdb
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\bin\Debug\Aspose.Cells.dll
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.exe
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.pdb
+C:\Fikri_Intern\PROJECT\QADataPlotting\QADataPlotting\obj\Debug\QADataPlotting.csprojResolveAssemblyReference.cache
